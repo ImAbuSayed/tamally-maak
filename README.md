@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> في الليل روحي بتتمناك
+> نور عيوني دايما فداك
+> عمري ما انسى هواك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
