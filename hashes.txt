@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tamally Maak
+
+This log tracks the cryptographic history and versioning for the song **Tamally Maak** (tamally-maak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:30:33.321465 | `v1` | `62954eb4fdbf41f7a67d649c84cbbdfc0e5b8092ca7d91adc6a57b0bf6ceebfa` | `5854963cdd9cf0036d250c43836bb9b70a06315babb2e81210274e650df10f6f` | `2026-05-09_tamally-maak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
